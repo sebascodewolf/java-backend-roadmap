@@ -8,3 +8,7 @@ Testing, Docker, Cloud y Seguridad.
 - [x] Fase 1 — Java Avanzado (en curso)
 - [ ] Fase 2 — Testing y Programación Reactiva
 - [ ] Fase 3 — Spring Security, JWT, OAuth 2.0
+
+
+## Ejecucion en Mesa de Comandos
+- Ej: javac Lambdas.java    java Lambdas
